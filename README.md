@@ -1,6 +1,6 @@
 # UniSheet - College Application Tracker
 
-A modern web application built with FastAPI and Supabase to help students organize and track their college applications efficiently.
+Often, I see people using spreadsheets to manually edit and add rows and columns to manage universities, so I made this tool "UniSheet". A modern web application built with FastAPI and Supabase to help students organize and track their college applications efficiently.
 
 ## 🚀 Features
 
